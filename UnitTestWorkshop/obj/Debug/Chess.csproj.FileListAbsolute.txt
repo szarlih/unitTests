@@ -1,0 +1,9 @@
+C:\Users\jmielewx.DESKTOP-LARHGVR\source\repos\UnitTestWorkshop\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jmielewx.DESKTOP-LARHGVR\source\repos\UnitTestWorkshop\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jmielewx.DESKTOP-LARHGVR\source\repos\UnitTestWorkshop\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jmielewx.DESKTOP-LARHGVR\source\repos\UnitTestWorkshop\bin\Debug\UnitTestWorkshop.exe.config
+C:\Users\jmielewx.DESKTOP-LARHGVR\source\repos\UnitTestWorkshop\bin\Debug\UnitTestWorkshop.exe
+C:\Users\jmielewx.DESKTOP-LARHGVR\source\repos\UnitTestWorkshop\bin\Debug\UnitTestWorkshop.pdb
+C:\Users\jmielewx.DESKTOP-LARHGVR\source\repos\UnitTestWorkshop\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\jmielewx.DESKTOP-LARHGVR\source\repos\UnitTestWorkshop\obj\Debug\UnitTestWorkshop.exe
+C:\Users\jmielewx.DESKTOP-LARHGVR\source\repos\UnitTestWorkshop\obj\Debug\UnitTestWorkshop.pdb
