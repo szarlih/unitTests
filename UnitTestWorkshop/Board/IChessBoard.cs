@@ -9,5 +9,7 @@
         bool MovePiece(Tuple<int, int> source, Tuple<int, int> target);
 
         bool SetPiece(Tuple<int, int> target, IChessPiece piece);
+
+        IChessPiece GetSquare(Tuple<int, int> target);
     }
 }

@@ -14,6 +14,16 @@ namespace UnitTestWorkshop.Board
             squares = new IChessPiece[size, size];
         }
 
+        public IChessPiece GetSquare(Tuple<int, int> target)
+        {
+            if(target.Item1 < size && target.Item2 < size && target.Item1 > -1 && target.Item2 > -1)
+            {
+                return squares[target.Item1, target.Item2];
+            }
+
+            throw new ArgumentException("Invalid square coordinates.");
+        }
+
         public bool MovePiece(Tuple<int, int> source, Tuple<int, int> target)
         {
             if(!IsEmpty(target) || IsEmpty(source))

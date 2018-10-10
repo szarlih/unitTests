@@ -50,6 +50,7 @@
     <Compile Include="Board\IChessBoard.cs" />
     <Compile Include="MajorChessPieces\IChessPiece.cs" />
     <Compile Include="MajorChessPieces\Knight.cs" />
+    <Compile Include="MajorChessPieces\Pawn.cs" />
     <Compile Include="MajorChessPieces\Rook.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

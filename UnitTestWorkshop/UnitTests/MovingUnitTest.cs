@@ -36,7 +36,7 @@
 
             var knight = knightMock.Object;
 
-            Assert.IsFalse(knight.Move(new System.Tuple<int, int>(0, 0)));
+            Assert.IsFalse(knight.Move(null));
 
             Assert.AreEqual(new System.Tuple<int, int>(0, 7), knight.Position);
         }
