@@ -4,7 +4,7 @@ namespace UnitTestWorkshop.Board
     using System;
     using UnitTestWorkshop.MajorChessPieces;
 
-    public class ChessBoard : IChessBoard
+    class ChessBoard : IChessBoard
     {
         private const int size = 8;
         private IChessPiece[,] squares;
